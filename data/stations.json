@@ -1,0 +1,8 @@
+{
+  "lines": {
+    "Purple Line (Line 1)": ["PCMC", "Sant Tukaram Nagar", "Nashik Phata (Bhosari)", "Kasarwadi", "Phugewadi", "Dapodi", "Bopodi", "Khadki", "Range Hill", "Shivaji Nagar", "District Court (Civil Court)", "Kasaba Peth (Budhwar Peth)", "Mahatma Phule Mandai", "Swargate"],
+    "Aqua Line (Line 2)": ["Vanaz", "Anand Nagar", "Ideal Colony", "Nal Stop", "Garware College", "Deccan Gymkhana", "Chhatrapati Sambhaji Udyan", "PMC", "District Court (Civil Court)", "RTO (Mangalwar Peth)", "Pune Railway Station", "Ruby Hall Clinic", "Bund Garden", "Yerawada", "Kalyani Nagar", "Ramwadi"]
+  },
+  "interchange": "District Court (Civil Court)",
+  "notes": "Only Line 1 (PCMC–Swargate) and Line 2 (Vanaz–Ramwadi) are operational. All dotted-line extensions are under construction. For areas like Hinjewadi, Kharadi, Hadapsar, Katraj, Wagholi, suggest auto or PMPML bus from the nearest operational station."
+}
